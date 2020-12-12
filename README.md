@@ -2,7 +2,7 @@
 
 Simple React app to settle life's oldest scores
 
-<!-- ![screenshot](https://github.com/hunterphillips/countdown/blob/master/images/reactTicTacToe_screenshot.jpg) -->
+![screenshot](https://github.com/hunterphillips/React-ticactoe/blob/main/reactTicTacToe_screenshot.PNG)
 
 To play, you'll need to have the following installed on your system:
 
