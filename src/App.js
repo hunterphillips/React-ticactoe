@@ -1,5 +1,5 @@
 /** TODO:
- * random player start
+ * theme background
  * When someone wins, highlight the three squares that caused the win.
  */
 import React, { Component } from "react";
@@ -11,9 +11,9 @@ class Game extends React.Component {
 		super(props);
 		this.state = {
 			themes: [
-				["🐔", "🥚"],
-				["🧠", "💪"],
-				["🤠", "👽"],
+				["🐔", "🥚", "#ffd9d2"],
+				["🧠", "💪", "#f0f8ff8c"],
+				["🤠", "👽", "wheat"],
 			],
 			theme: 0,
 			squares: Array(9).fill(null),

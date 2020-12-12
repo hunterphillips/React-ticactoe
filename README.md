@@ -1,8 +1,8 @@
-# The ULTIMATE TicTacToe
+# The ULTIMATE Tic-tac-toe
 
-Simple React app to settle life's oldest scores
+Become a legend.
 
-<!-- ![screenshot](https://github.com/hunterphillips/countdown/blob/master/images/reactTicTacToe_screenshot.jpg) -->
+![screenshot](https://github.com/hunterphillips/React-ticactoe/blob/main/reactTicTacToe_screenshot.PNG)
 
 To play, you'll need to have the following installed on your system:
 
@@ -12,5 +12,6 @@ To play, you'll need to have the following installed on your system:
 Then follow these steps:
 
 1.  Fork and clone the repo onto your machine
-2.  cd into the project folder and run npm install to download the required dependencies.
+2.  cd into the project folder and run npm install to download the required dependencies
 3.  In your terminal, run `npm start`
+4.  Open the following page in your web browser http://localhost:3000/
