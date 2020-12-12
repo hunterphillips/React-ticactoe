@@ -6,6 +6,7 @@
 body {
 	font: 14px "Century Gothic", Futura, sans-serif;
 	margin: 20px;
+	/* background: #f0f8ff8c; */
 }
 
 ol,
@@ -51,10 +52,11 @@ ul {
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
+	padding-top: 5em;
 }
 
 #themeSelect {
-	padding: 0.25em;
+	padding: 0.3em;
 	margin-left: 0.5em;
 }
 
@@ -87,4 +89,20 @@ ul {
 	color: #008000b3;
 	font-weight: bold;
 	cursor: pointer;
+}
+
+/* 
+	Mobile 
+*/
+@media (max-width: 515px) {
+	.game {
+		flex-direction: column;
+		align-items: center;
+		text-align: center;
+		justify-content: normal;
+	}
+
+	.theme-select-container {
+		margin-bottom: 2.5em;
+	}
 }
