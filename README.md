@@ -1,4 +1,4 @@
-# The ULTIMATE TicTacToe
+# The ULTIMATE Tic-tac-toe
 
 Simple React app to settle life's oldest scores
 
